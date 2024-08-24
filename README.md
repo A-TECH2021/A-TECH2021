@@ -5,6 +5,8 @@
 
 ## 🚀 What I'm Working On
 - [megastocky.online](https://megastocky.online): An application for resource management and accounting, HRM, and POS system powered by ATECH.
+- - [thepethouseleb](https://thepethouseleb.com): The Pet House Lebanon. It's an online store that offers a variety of pet products, including food, toys, and care items. They provide delivery across Lebanon and have veterinary services. The site includes sections for shopping, customer accounts, and a clinic with a patient dashboard. It also offers discounts and promotions, along with 24/7 customer support.powered by ATECH.
+    
 
 ---
 
@@ -17,8 +19,7 @@
 ---
 
 ## 🛠️ Featured Projects
-- [Project Name](Link) - A brief description of what the project does.
-
+- Cooming Soon
 ---
 
 ## 📈 GitHub Stats
@@ -29,7 +30,7 @@
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/yourprofile)
 - [Twitter](https://twitter.com/yourhandle)
-- [Personal Website](https://yourwebsite.com)
+- [My Website](https://atech-lb.tech)
 
 ---
 
