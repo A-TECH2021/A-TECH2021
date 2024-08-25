@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Ali
+# Hi there! 👋 I'm Ali A SOFTWARE ENGINEER
 **Digital and Technology Enthusiast | Software Master | A TECH Founder**
 
 ---
@@ -15,7 +15,17 @@
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+Node.js
 
+Next.js
+
+React
+
+MongoDB
+
+Express
+
+MySQL
 ---
 
 ## 🛠️ Featured Projects
