@@ -2,7 +2,7 @@
 **Digital and Technology Enthusiast | Software Master | A TECH Founder**
 
 ---
-
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 ## 🚀 What I'm Working On
 - [megastocky.online](https://megastocky.online): An application for resource management and accounting, HRM, and POS system powered by ATECH.
 - [thepethouseleb](https://thepethouseleb.com): The Pet House Lebanon. It's an online store that offers a variety of pet products, including food, toys, and care items. They provide delivery across Lebanon and have veterinary services. The site includes sections for shopping, customer accounts, and a clinic with a patient dashboard. It also offers discounts and promotions, along with 24/7 customer support, powered by ATECH.
@@ -44,7 +44,8 @@
 - [LinkedIn](https://www.linkedin.com/in/yourprofile)
 - [Twitter](https://twitter.com/yourhandle)
 - [My Website](https://atech-lb.tech)
-
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="engaliyazbek" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://lb.linkedin.com/in/engaliyazbek?trk=profile-badge">eng Yazbek</a></div>
+              
 ---
 
 ## 💡 Fun Fact
